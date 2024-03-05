@@ -1,0 +1,8 @@
+.container {
+	width: 1440px;
+}
+
+.header-backround {
+	background: #E7E9FC;
+	display: flex;
+}
